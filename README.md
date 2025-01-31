@@ -92,3 +92,7 @@
     - Or using direct URL: http://localhost:5053/swagger-ui.html
 	- Or in Angular UI
 	- Sales order Database console: http://localhost:5053/h2-console/ - 'jdbc:h2:mem:salesorderdb'
+
+
+Thanks and Regards
+Divyanshu Bahuguna
